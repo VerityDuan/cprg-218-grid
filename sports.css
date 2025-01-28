@@ -6,6 +6,21 @@ main{
     grid-template-columns: 1fr 3fr 3fr;
 }
 
+
+body{
+    background-color: red;
+}
+
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:1rem;
+    width: 80%;
+    margin:0 auto;
+    border: 1px solid yellow;
+}
+
 section{
-    border
+    background-color: white;
 }
