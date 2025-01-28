@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 3fr 3fr;
+}
+
+section{
+    border
+}
